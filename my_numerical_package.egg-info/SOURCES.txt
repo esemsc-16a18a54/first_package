@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+my_numerical_package/__init__.py
+my_numerical_package.egg-info/PKG-INFO
+my_numerical_package.egg-info/SOURCES.txt
+my_numerical_package.egg-info/dependency_links.txt
+my_numerical_package.egg-info/requires.txt
+my_numerical_package.egg-info/top_level.txt
+my_numerical_package/linear_algebra/__init__.py
+my_numerical_package/linear_algebra/array_operations.py
+my_numerical_package/linear_algebra/matrix_operations.py
+my_numerical_package/statistics/__init__.py
+my_numerical_package/statistics/statistics.py
+tests/test_my_numerical_package.py

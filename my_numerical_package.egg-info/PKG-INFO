@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: my_numerical_package
+Version: 0.1.0
+Summary: A brief description of my project.
+License-File: LICENSE
+Requires-Dist: numpy>=2.1.0
