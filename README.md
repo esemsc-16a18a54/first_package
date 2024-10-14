@@ -7,9 +7,9 @@
 To install `my_numerical_package`, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/my_numerical_package.git
+git clone https://github.com/esemsc-16a18a54/first_package.git
 cd my_numerical_package
-pip install -r requirements.txt
+pip install .
 ```
 
 ## Usage
